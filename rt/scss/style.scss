@@ -1,0 +1,19 @@
+$primary: black;
+$secondary: red;
+
+
+.h1{
+    background-color: $secondary;
+    font: bold;
+    font-size: 4rem;
+    font-family: sans-serif;
+    color: $primary;
+}
+
+.p1{
+    background-color: $secondary;
+    font: bold;
+    font-size: 4rem;
+    font-family: sans-serif;
+    color: $primary;
+}
